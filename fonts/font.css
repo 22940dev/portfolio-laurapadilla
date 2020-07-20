@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Traulha";
+  src: url("./traulha_web-regulara.woff2") format("woff2"),
+    url("./traulha_web-regulara.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}

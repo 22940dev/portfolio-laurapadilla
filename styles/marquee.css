@@ -1,0 +1,30 @@
+.marquee {
+  background-color: #000;
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  font-size: 1.2rem;
+  overflow: hidden;
+  padding: 5px 10px;
+  z-index: 1;
+  font-style: italic;
+}
+
+@keyframes moveLeft {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-2000vw);
+  }
+}
+
+.marquee span {
+  animation: moveLeft 600s linear infinite;
+  white-space: nowrap;
+  display: block;
+  position: relative;
+  width: 100vw;
+}
