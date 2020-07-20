@@ -4,7 +4,5 @@ I'm [laura padilla](https://lauvpadilla.com). I'm a designer + developer in Pitt
 
 🏖 You can find me at the beach or a pool.  
 
-wanna work together?
-
-stalk me at [my website](https://lauvpadilla.com) or [twitter](https://twitter.com/lauvpadilla)
+feel free to stalk me at [my website](https://lauvpadilla.com) or [twitter](https://twitter.com/lauvpadilla) or [insta](https://instagram.com/lauvpadilla
 
