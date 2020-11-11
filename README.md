@@ -1,6 +1,6 @@
 ### Hola 👋
 
-I'm [laura padilla](https://lauracodes.com). I'm a designer + developer in Pittsburgh, currently working as an app designer at PPG Industries. 
+I'm [laura padilla](https://lauracodes.com). I'm a creative developer based in Pittsburgh, currently working as an app designer at PPG Industries. 
 
 🏖 You can find me at the beach or a pool.  
 
